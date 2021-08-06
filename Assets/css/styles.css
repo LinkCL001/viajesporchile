@@ -5,9 +5,17 @@
 
 }
 
+h5 {
+  text-align: left;
+}
 
+p {
+  text-align: left;
+}
 
-
+.izquierda img {
+  height: 180px;
+}
 
 
 
