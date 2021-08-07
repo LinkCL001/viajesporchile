@@ -2,7 +2,7 @@
 
 *  {
   text-align: center;
-
+  color: white;
 }
 
 h5 {
@@ -17,8 +17,16 @@ p {
   height: 180px;
 }
 
+.fondon {
+  background: black;
+}
 
-
+.h-divider {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px blue;
+  padding: 2rem;
+}
 
 
 
