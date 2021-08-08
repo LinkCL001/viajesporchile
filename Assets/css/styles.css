@@ -1,8 +1,11 @@
-
-
-*  {
+body  {
   text-align: center;
   color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+  text-align: left;
 }
 
 h5 {
@@ -21,15 +24,15 @@ p {
   background: black;
 }
 
-.h-divider {
-	height: 10px;
-	border: 0;
-	box-shadow: 0 10px 10px -10px blue;
-  padding: 2rem;
-}
-
-
-
 .logo img {
     height: 40px;
-  }
+}
+
+.colorb a i {
+    color: white;
+}
+
+.division {
+  border-top: 4px solid;
+
+}
