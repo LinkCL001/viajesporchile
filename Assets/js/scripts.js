@@ -1,3 +1,4 @@
+//smoth scrolling//
 $(function() {
 
     $("a").click(function (event) {
@@ -13,7 +14,7 @@ $(function() {
         }
     });
 });
-
+//tooltip boostrap//
 $(function () {
     $('[data-toggle="tooltip"]').tooltip()
   })
